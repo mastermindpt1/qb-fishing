@@ -33,7 +33,7 @@
 
  ``` 
 
-# Optional (if you are not using my **qb-inventory**)
+# Optional (if you are not using **qb-inventory**)
 ```
 	else if (itemData.name == "bass") {
             $(".item-info-title").html('<p>' + itemData.label + '</p>')
